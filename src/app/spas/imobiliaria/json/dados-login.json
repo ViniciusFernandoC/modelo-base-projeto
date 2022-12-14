@@ -1,0 +1,16 @@
+
+{
+    "status": "OK",
+    "messages": [],
+    "data": [
+        {
+            "emailUsuario": "email1@gmail.com",
+            "senhaUsuario": "12345678"
+        },
+        {
+            "emailUsuario": "email2@gmail.com",
+            "senhaUsuario": "87654321"
+        }
+    ],
+    "statusCode": 200
+}

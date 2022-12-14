@@ -1,0 +1,26 @@
+
+{
+    "status": "OK",
+    "messages": [],
+    "data": [
+        {
+            "nomeImovel": "Imóvel 1",
+            "tipoImovel": "Apartamento",
+            "valorImovel": 200000,
+            "metrosImovel": 500,
+            "imgSlide1": "../../../assets/img/casa1.jpg",
+            "imgSlide2": "../../../assets/img/casa2.jpg",
+            "imgSlide3": "../../../assets/img/casa3.jpg"
+        },
+        {
+            "nomeImovel": "Imóvel 2",
+            "tipoImovel": "Casa",
+            "valorImovel": 500000,
+            "metrosImovel": 500,
+            "imgSlide1": "../../../assets/img/casa1.jpg",
+            "imgSlide2": "../../../assets/img/casa2.jpg",
+            "imgSlide3": "../../../assets/img/casa3.jpg"
+        }
+    ],
+    "statusCode": 200
+}
